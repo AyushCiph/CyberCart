@@ -1,1 +1,2 @@
 # CyberCart
+A feature-rich online shopping system designed to provide a secure and engaging shopping experience. It includes user and product management, wishlist, shopping cart, coupons, rewards, Play & Win mini-games, purchase-based offers, free delivery benefits, secure payments, and order tracking. The project also focuses on cybersecurity through secure authentication, input validation, access control, and security logging.
